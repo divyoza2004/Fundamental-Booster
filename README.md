@@ -23,6 +23,12 @@ a specific function (or a combination of functions). By the end you will be able
 | Sales Data | Schema-2 | 20 sales | Sales ID, Product, Region, Salesperson, Amount, Date | Sales lookups, discounts, summaries |
 | Employees Data | Schema-3 | 20 employees | Employee ID, Name, Department, Salary, Joining Date | Employee lookups |
 
+## ▶ Demo Video
+
+<a href="https://drive.google.com/file/d/13sgoZa_YAD4P4-WB7bWMGBxfsDG8-WwF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
+
 ## Task Index
 
 | # | Task | Function(s) | Sheet |
